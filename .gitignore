@@ -1,0 +1,6 @@
+*.iml
+.idea
+staging
+build
+out
+output
